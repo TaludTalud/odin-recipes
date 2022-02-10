@@ -1,0 +1,39 @@
+#title {
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    font-weight: 700;
+    font-family:"Brush Script MT", Georgia, Serif;
+    text-align: center;
+}
+img {
+    height: auto;
+    width: 800px;
+}
+h3 {
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Serif;
+    color: pink;
+    text-align: left;
+}
+.disc {
+    color: #128022;
+    background-color: beige;
+    font-size: 15px;
+    font-weight: 100;
+    text-align: left;
+    font-family: "Trebuchet MS", Serif;
+}
+ul { color: blueviolet;
+    font-weight: 10;
+    font-size: 15px;
+    background-color: salmon;
+    font-family: Serif;
+}
+ol {
+    color: black;
+    font-size: 30px;
+    background-color: violet;
+    font-weight: 200;
+}
