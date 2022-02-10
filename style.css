@@ -1,0 +1,16 @@
+#title {
+    text-align: center;
+    background-color: rgb(25, 55, 22);
+    color: hsl(160, 10%, 80%);
+    font-family:"Brush Script MT", Tahoma, Monospace;
+    font-size: 30px;
+    font-weight 1000;
+}
+li {
+    text-align: left;
+    font-size: 20px;
+    font-family: Georgia, Serif;
+    color: #00ff00;
+    background-color: red;
+    font-weight: 400;
+}
